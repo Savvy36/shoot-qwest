@@ -165,6 +165,3 @@ game.onUpdateInterval(1000, function () {
     projectile2.setVelocity(0, 24)
     projectile2.setFlag(SpriteFlag.AutoDestroy, true)
 })
-forever(function () {
-	
-})
